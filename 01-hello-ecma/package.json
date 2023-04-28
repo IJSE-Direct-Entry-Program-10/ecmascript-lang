@@ -1,0 +1,13 @@
+{
+  "name": "01-hello-ecma",
+  "version": "1.0.0",
+  "description": "Hello ECMAScript!",
+  "scripts": {
+    "create": "mkdir abc",
+    "delete": "rm -r abc",
+    "stop-mysql": "service mysql stop",
+    "start-mysql": "service mysql start"
+  },
+  "author": "Direct Entry Program <dep@ijse.lk> (https://ijse.lk)",
+  "license": "MIT"
+}

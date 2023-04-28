@@ -1,0 +1,13 @@
+{
+  "name": "02-data-types",
+  "version": "1.0.0",
+  "description": "Data Types, Literals, Variables, Constants, and String Conversions",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "author": "Direct Entry Program <dep@ijse.lk> (https://ijse.lk)",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
