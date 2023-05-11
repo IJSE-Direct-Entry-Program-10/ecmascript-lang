@@ -2,7 +2,7 @@
   "name": "03-objects-i",
   "version": "1.0.0",
   "scripts": {
-    "start": "nodemon var-vs-let.js"
+    "start": "nodemon objects.js"
   },
   "author": "Direct Entry Program <dep@ijse.lk> (https://ijse.lk)",
   "license": "MIT",
