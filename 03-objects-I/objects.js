@@ -138,5 +138,27 @@ myObj7.name = 'Ruwan';
 console.log("ID:", myObj7.id);
 console.log("Name:", myObj7.name);
 
+console.log("-------------------");
+
+let myObj8 = {
+    email: 'dep@ijse.lk',
+    address: 'panadura'
+};
+
+/* Property Accessor:  Dot Notation */
+console.log(myObj8.email);
+console.log(myObj8.address);
+
+/* Property Accessor:  Bracket Notation */
+console.log(myObj8['email']);
+console.log(myObj8['address']);
+
+myObj8['contact'] = '078-1234567';
+console.log(myObj8.contact);
+
+
+
+
+
 
 
