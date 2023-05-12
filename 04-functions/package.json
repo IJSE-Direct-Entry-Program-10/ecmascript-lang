@@ -1,0 +1,12 @@
+{
+  "name": "04-functions",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "author": "Direct Entry Program <dep@ijse.lk> (https://ijse.lk)",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
