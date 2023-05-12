@@ -1,5 +1,5 @@
 {
-  "name": "03-objects-i",
+  "name": "03-objects-and-functions",
   "version": "1.0.0",
   "scripts": {
     "start": "nodemon functions.js"
