@@ -10,7 +10,7 @@ abstract class User{
     abstract void login();
     abstract void logout();
 
-    static int SOME_RANDOM_INT = ((int) Math.random()) * 10;
+    final static int SOME_RANDOM_INT = ((int) Math.random()) * 10;
 }
 
 abstract class Employee extends User {
@@ -28,7 +28,6 @@ abstract class Employee extends User {
 
     abstract void sendEmails();
 }
-
 
 final class Manager extends Employee {
 

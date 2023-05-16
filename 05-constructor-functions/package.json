@@ -2,7 +2,7 @@
   "name": "05-constructor-functions",
   "version": "1.0.0",
   "scripts": {
-    "start":"nodemon prototypes-3.js"
+    "start":"nodemon prototypes-4.js"
   },
   "author": "Direct Entry Program <dep@ijse.lk> (https://ijse.lk)",
   "license": "MIT",
