@@ -105,3 +105,10 @@ Townace.prototype.horn = function(){
 
 /* Townace extends Vehicle */
 Object.setPrototypeOf(Townace.prototype, Vehicle.prototype);
+
+const t1 = new Bugati();
+t1.horn();
+t1.applyBreaks();
+t1.drive();
+t1.shiftGears();
+t1.absImpl();
