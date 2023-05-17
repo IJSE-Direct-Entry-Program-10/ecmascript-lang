@@ -2,7 +2,7 @@
   "name": "08-operators",
   "version": "1.0.0",
   "scripts": {
-    "start": "nodemon array-destructuring.js"
+    "start": "nodemon misc.js"
   },
   "author": "Direct Entry Program <dep@ijse.lk> (https://ijse.lk)",
   "license": "MIT",
