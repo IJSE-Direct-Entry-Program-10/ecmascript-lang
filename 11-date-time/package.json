@@ -1,0 +1,16 @@
+{
+  "name": "11-date-time",
+  "version": "1.0.0",
+  "type":"module",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "author": "Direct Entry Program <dep@ijse.lk> (https://ijse.lk)",
+  "license": "MIT",
+  "dependencies": {
+    "@js-joda/core": "^5.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

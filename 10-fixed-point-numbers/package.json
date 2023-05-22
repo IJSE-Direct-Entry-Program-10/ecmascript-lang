@@ -1,0 +1,16 @@
+{
+  "name": "10-fixed-point-numbers",
+  "version": "1.0.0",
+  "author": "Direct Entry Program <dep@ijse.lk> (https://ijse.lk)",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start":"nodemon main.js"
+  },
+  "dependencies": {
+    "big.js": "^6.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

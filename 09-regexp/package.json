@@ -1,0 +1,12 @@
+{
+  "name": "09-regexp",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon regexp-4.js"
+  },
+  "author": "Direct Entry Program <dep@ijse.lk> (https://ijse.lk)",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
